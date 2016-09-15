@@ -1,5 +1,7 @@
 # Six-Degrees-of-Kevin-Bacon
 
+![IMDB](https://github.com/deep1blue/Six-Degrees-of-Kevin-Bacon/blob/master/imdb.jpg "IMDB")
+
 - Most of us have heard about the Kevin Bacon game
 - The game requires a group of players to try to connect any Hollywood actor to Kevin Bacon as quickly as possible and in as few links as possible
 - But why Kevin Bacon!?
