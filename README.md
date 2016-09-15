@@ -24,7 +24,7 @@ Couldn't share the imdb dataset as it is too big. But contact me (parthvadera@gm
 - Brad Pitt
 - Keanu Reeves
 
-## The hollywood network:
+## The Movie Network:
 Filter: Made after 1960
 - Number of Nodes: ~1.2 Million
 - Number of Edges: ~2.8 Million
