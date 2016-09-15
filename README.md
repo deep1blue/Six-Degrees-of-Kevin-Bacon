@@ -11,7 +11,7 @@ The python code project_network in the current repo has the code to load the imd
 Couldn't share the imdb dataset as it is too big. But contact me (parthvadera@gmail.com)  if you want to reporduce the result or just need the imdb dataset.
 
 ## Actors of interest 
--Kevin Bacon
+- Kevin Bacon
 - Nicolas Cage
 - George Clooney
 - Tom Cruise
@@ -24,8 +24,10 @@ Couldn't share the imdb dataset as it is too big. But contact me (parthvadera@gm
 
 ## The hollywood network:
 Filter: Made after 1960
-Number of Nodes: ~1.2 Million
-Number of Edges: ~2.8 Million
+- Number of Nodes: ~1.2 Million
+- Number of Edges: ~2.8 Million
+ 
+![Degree Distribution of the network](https://github.com/deep1blue/Six-Degrees-of-Kevin-Bacon/blob/master/degree%20dist.png "Degree Dist")
 
 
 
